@@ -55,9 +55,6 @@ document.getElementById('password').value = finalPassStr.replace(/,/g,'');
 
   //document.getElementById('password').value = password;
 
-
-
-
 //var passowrd = generatePassword() {//
 
 
