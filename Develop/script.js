@@ -15,6 +15,7 @@ if (pwdLength >= 8 ) {
   alert("has to be a number between 8 and 128. ")
 
 };
+// what will be genrated//
 
 var lctype = confirm("do you want lowercase? ");
 if (lctype){
