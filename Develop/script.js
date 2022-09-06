@@ -10,7 +10,7 @@ var pwdopts =[];
 var finalPass = [];
 var pwdLength = prompt("choose a password length 8-128 characters");
 
-if (pwdLength = 8) {
+if (pwdLength >= 8 ) {
 } else {
   alert("has to be a number between 8 and 128. ")
 
